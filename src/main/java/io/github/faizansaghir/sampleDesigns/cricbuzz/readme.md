@@ -56,3 +56,9 @@ Design a system like CricBuzz/CricInfo
 10. Commentary
 11. News
 12. Stas (Player, Team, Tournament)
+
+## Class Diagram
+[Reference](https://github.com/naval41/Low-Level-Design/blob/master/CricketPortal/src/com/codemate/cric/ClassDiagram.jpg)
+
+![CricBuzz Class Diagram](../../../../../../resources/CricBuzzClassDiagram.jpg?raw=true "Title")
+
